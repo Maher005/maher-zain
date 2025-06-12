@@ -86,10 +86,10 @@ const Contact = () => {
               </div>
               
               <div className="flex space-x-4 pt-4 animate-fade-in" style={{ animationDelay: '1s' }}>
-                <a href="#" className="p-3 bg-white dark:bg-gray-800 rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
+                <a href="https://github.com/Maher005" className="p-3 bg-white dark:bg-gray-800 rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
                   <Github className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors" size={24} />
                 </a>
-                <a href="#" className="p-3 bg-white dark:bg-gray-800 rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
+                <a href="https://www.linkedin.com/in/maher-zain-b69b69330/" className="p-3 bg-white dark:bg-gray-800 rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
                   <Linkedin className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors" size={24} />
                 </a>
               </div>
